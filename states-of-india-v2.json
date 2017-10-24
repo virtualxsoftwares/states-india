@@ -1,0 +1,183 @@
+{
+	"states": [{
+			"ISO": "AP",
+			"name": "Andhra Pradesh",
+			"type": "state"
+		},
+		{
+			"ISO": "AR",
+			"name": "Arunachal Pradesh",
+			"type": "state"
+		},
+		{
+			"ISO": "AS",
+			"name": "Assam",
+			"type": "state"
+		},
+		{
+			"ISO": "BR",
+			"name": "Bihar",
+			"type": "state"
+		},
+		{
+			"ISO": "CT",
+			"name": "Chhattisgarh",
+			"type": "state"
+		},
+		{
+			"ISO": "GA",
+			"name": "Goa",
+			"type": "state"
+		},
+		{
+			"ISO": "GJ",
+			"name": "Gujarat",
+			"type": "state"
+		},
+		{
+			"ISO": "HR",
+			"name": "Haryana",
+			"type": "state"
+		},
+		{
+			"ISO": "HP",
+			"name": "Himachal Pradesh",
+			"type": "state"
+		},
+		{
+			"ISO": "JK",
+			"name": "Jammu and Kashmir",
+			"type": "state"
+		},
+		{
+			"ISO": "JH",
+			"name": "Jharkhand",
+			"type": "state"
+		},
+		{
+			"ISO": "KA",
+			"name": "Karnataka",
+			"type": "state"
+		},
+		{
+			"ISO": "KL",
+			"name": "Kerala",
+			"type": "state"
+		},
+		{
+			"ISO": "MP",
+			"name": "Madhya Pradesh",
+			"type": "state"
+		},
+		{
+			"ISO": "MH",
+			"name": "Maharashtra",
+			"type": "state"
+		},
+		{
+			"ISO": "MN",
+			"name": "Manipur",
+			"type": "state"
+		},
+		{
+			"ISO": "ML",
+			"name": "Meghalaya",
+			"type": "state"
+		},
+		{
+			"ISO": "MZ",
+			"name": "Mizoram",
+			"type": "state"
+		},
+		{
+			"ISO": "AP",
+			"name": "Nagaland",
+			"type": "state"
+		},
+		{
+			"ISO": "OR",
+			"name": "Odisha",
+			"type": "state"
+		},
+		{
+			"ISO": "PB",
+			"name": "Punjab",
+			"type": "state"
+		},
+		{
+			"ISO": "RJ",
+			"name": "Rajasthan",
+			"type": "state"
+		},
+		{
+			"ISO": "SK",
+			"name": "Sikkim",
+			"type": "state"
+		},
+		{
+			"ISO": "TN",
+			"name": "Tamil Nadu",
+			"type": "state"
+		},
+		{
+			"ISO": "TG",
+			"name": "Telangana",
+			"type": "state"
+		},
+		{
+			"ISO": "TR",
+			"name": "Tripura",
+			"type": "state"
+		},
+		{
+			"ISO": "UT",
+			"name": "Uttarakhand",
+			"type": "state"
+		},
+		{
+			"ISO": "UP",
+			"name": "Uttar Pradesh",
+			"type": "state"
+		},
+		{
+			"ISO": "WB",
+			"name": "West Bengal",
+			"type": "state"
+		},
+		{
+			"ISO": "AN",
+			"name": "Andaman and Nicobar Islands",
+			"type": "Union territory"
+		},
+		{
+			"ISO": "CH",
+			"name": "Chandigarh",
+			"type": "Union territory"
+		},
+		{
+			"ISO": "DN",
+			"name": "Dadra and Nagar Haveli",
+			"type": "Union territory"
+		},
+		{
+			"ISO": "DD",
+			"name": "Daman and Diu",
+			"type": "Union territory"
+		},
+		{
+			"ISO": "DL",
+			"name": "Delhi",
+			"type": "Union territory"
+		},
+		{
+			"ISO": "LD",
+			"name": "Lakshadweep",
+			"type": "Union territory"
+		},
+		{
+			"ISO": "PY",
+			"name": "Puducherry",
+			"type": "Union territory"
+		}
+	]
+}
