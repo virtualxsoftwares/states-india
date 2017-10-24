@@ -1,0 +1,146 @@
+{  
+   "AP":{  
+      "name":"Andhra Pradesh",
+      "type":"state"
+   },
+   "AR":{  
+      "name":"Arunachal Pradesh",
+      "type":"state"
+   },
+   "AS":{  
+      "name":"Assam",
+      "type":"state"
+   },
+   "BR":{  
+      "name":"Bihar",
+      "type":"state"
+   },
+   "CT":{  
+      "name":"Chhattisgarh",
+      "type":"state"
+   },
+   "GA":{  
+      "name":"Goa",
+      "type":"state"
+   },
+   "GJ":{  
+      "name":"Gujarat",
+      "type":"state"
+   },
+   "HR":{  
+      "name":"Haryana",
+      "type":"state"
+   },
+   "HP":{  
+      "name":"Himachal Pradesh",
+      "type":"state"
+   },
+   "JK":{  
+      "name":"Jammu and Kashmir",
+      "type":"state"
+   },
+   "JH":{  
+      "name":"Jharkhand",
+      "type":"state"
+   },
+   "KA":{  
+      "name":"Karnataka",
+      "type":"state"
+   },
+   "KL":{  
+      "name":"Kerala",
+      "type":"state"
+   },
+   "MP":{  
+      "name":"Madhya Pradesh",
+      "type":"state"
+   },
+   "MH":{  
+      "name":"Maharashtra",
+      "type":"state"
+   },
+   "MN":{  
+      "name":"Manipur",
+      "type":"state"
+   },
+   "ML":{  
+      "name":"Meghalaya",
+      "type":"state"
+   },
+   "MZ":{  
+      "name":"Mizoram",
+      "type":"state"
+   },
+   "NL":{  
+      "name":"Nagaland",
+      "type":"state"
+   },
+   "OR":{  
+      "name":"Odisha",
+      "type":"state"
+   },
+   "PB":{  
+      "name":"Punjab",
+      "type":"state"
+   },
+   "RJ":{  
+      "name":"Rajasthan",
+      "type":"state"
+   },
+   "SK":{  
+      "name":"Sikkim",
+      "type":"state"
+   },
+   "TN":{  
+      "name":"Tamil Nadu",
+      "type":"state"
+   },
+   "TG":{  
+      "name":"Telangana",
+      "type":"state"
+   },
+   "TR":{  
+      "name":"Tripura",
+      "type":"state"
+   },
+   "UT":{  
+      "name":"Uttarakhand",
+      "type":"state"
+   },
+   "UP":{  
+      "name":"Uttar Pradesh",
+      "type":"state"
+   },
+   "WB":{  
+      "name":"West Bengal",
+      "type":"state"
+   },
+   "AN":{  
+      "name":"Andaman and Nicobar Islands",
+      "type":"Union territory"
+   },
+   "CH":{  
+      "name":"Chandigarh",
+      "type":"Union territory"
+   },
+   "DN":{  
+      "name":"Dadra and Nagar Haveli",
+      "type":"Union territory"
+   },
+   "DD":{  
+      "name":"Daman and Diu",
+      "type":"Union territory"
+   },
+   "DL":{  
+      "name":"Delhi",
+      "type":"Union territory"
+   },
+   "LD":{  
+      "name":"Lakshadweep",
+      "type":"Union territory"
+   },
+   "PY":{  
+      "name":"Puducherry",
+      "type":"Union territory"
+   }
+}
